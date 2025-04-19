@@ -1,0 +1,11 @@
+CS-2023-001    John Smith        F   B   A+  C   A+  2.60
+CS-2023-002    Michael Brown     C+  A-  C+  F   F   1.66
+CS-2023-003    David Wilson      C-  B   A-  A   F   2.46
+CS-2023-004    James Johnson     F   C-  B   D   B   1.73
+CS-2023-005    William Davis     C+  A-  C+  B   A   3.06
+CS-2023-006    Alexander Miller  A+  D   F   B   F   1.60
+CS-2023-007    Benjamin Taylor   F   F   A-  A+  C+  2.00
+CS-2023-008    Henry Anderson    C+  C-  C-  F   A-  1.86
+CS-2023-009    Samuel Thomas     A-  A+  A-  B   A-  3.60
+CS-2023-010    Daniel Moore      F   B   C-  A+  A-  2.46
+CS-2023-011    Logan Harris      F   C+  F   A-  F   1.20

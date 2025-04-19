@@ -1,0 +1,11 @@
+CS-2023-001    John Smith        F   B   A+  C   A+
+CS-2023-002    Michael Brown     C+  A-  C+  F   F
+CS-2023-003    David Wilson      C-  B   A-  A   F
+CS-2023-004    James Johnson     F   C-  B   D   B
+CS-2023-005    William Davis     C+  A-  C+  B   A
+CS-2023-006    Alexander Miller  A+  D   F   B   F
+CS-2023-007    Benjamin Taylor   F   F   A-  A+  C+
+CS-2023-008    Henry Anderson    C+  C-  C-  F   A-
+CS-2023-009    Samuel Thomas     A-  A+  A-  B   A-
+CS-2023-010    Daniel Moore      F   B   C-  A+  A-
+CS-2023-011    Logan Harris      F   C+  F   A-  F

@@ -1,0 +1,11 @@
+CS-2023-001    John Smith        45  76  97  64  98
+CS-2023-002    Michael Brown     67  87  67  45  34
+CS-2023-003    David Wilson      56  78  87  90  45
+CS-2023-004    James Johnson     34  56  76  54  76
+CS-2023-005    William Davis     67  87  67  78  90
+CS-2023-006    Alexander Miller  99  54  46  76  25
+CS-2023-007    Benjamin Taylor   45  34  87  98  67
+CS-2023-008    Henry Anderson    67  56  56  45  87
+CS-2023-009    Samuel Thomas     87  98  87  76  87
+CS-2023-010    Daniel Moore      34  76  56  98  87
+CS-2023-011    Logan Harris      34  65  46  86  45
